@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @robertsuditu
-- 👀 I’m interested in software architecture, patterns & development
-- 🌱 I’m currently learning domain-specific languages & antlr4
+- 👀 I’m passionate about software architecture, patterns & development
+- 👀 I'm fluent in C#, Javascript, HTML, CSS
+- 🌱 I’m currently having fun with Domain Specific Languages & Antlr4
 - 💞️ I’m looking to collaborate on software development & architecture projects
 - 📫 How to reach me: Skype (robert.suditu), Facebook (robert.suditu), Gmail (robert.suditu@gmail.com)
 
